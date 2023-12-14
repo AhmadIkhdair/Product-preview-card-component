@@ -17,7 +17,7 @@ This is a solution to the [Product-preview-card-component](https://www.frontendm
 
 ## Overview
 
-Made a few updates to this. My second frontend mentor test. Just added a few CSS lines and added this readme file.
+Made a few updates to this. My second frontend mentor challenge. Just added a few CSS lines and added this readme file.
 
 ### Screenshot
 
