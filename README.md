@@ -9,11 +9,7 @@ This is a solution to the [Product-preview-card-component](https://www.frontendm
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,6 +25,8 @@ Made a few updates to this. My second frontend mentor challenge. Just added a fe
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-hE82C0TwST)
 - Live Site URL: [Live Site](https://ahmadikhdair.github.io/Product-preview-card-component/)
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -40,4 +38,3 @@ Made a few updates to this. My second frontend mentor challenge. Just added a fe
 
 - LinkedIn -  [Ahmad Ikhdair](https://www.linkedin.com/in/ahmad-ikhdair/)
 - Frontend Mentor -  [Ahmad Ikhdair](https://www.frontendmentor.io/profile/AhmadIkhdair)
-
